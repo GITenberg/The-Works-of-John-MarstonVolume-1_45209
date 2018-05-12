@@ -1,0 +1,37 @@
+_repo: The-Works-of-John-MarstonVolume-1_45209
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45209-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marston, John
+    deathdate: 1634
+    gutenberg_agent_id: '43152'
+    url: http://www.gutenberg.org/2009/agents/43152
+  editor:
+    agent_name: Bullen, A. H. (Arthur Henry)
+    aliases:
+    - Butler, A. H.
+    - Bullen, Arthur Henry
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '3753'
+    url: http://www.gutenberg.org/2009/agents/3753
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
+description: ''
+gutenberg_issued: '2014-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama -- 17th century'
+tableOfContents: 'First part of Antonio and Mellida -- Antonio''s revenge: the second
+  part of Antonio and Mellida -- The malcontent.'
+title: The Works of John Marston. Volume 1
+url: http://www.gutenberg.org/ebooks/45209
